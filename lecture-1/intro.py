@@ -21,6 +21,25 @@ y=5
 #You can combine them by adding ; between them
 x=9; z=10; y=9
 
+#Naming Rules
 
+# Identifiers should begin with Letters (A-Z)/ (a-z) or _
+# Keywords are prohibited to use.
+# Case Sensitive (Average <> average)
 
+#Example
 
+avarage=10
+Average=4
+
+print("average equals "); print(average)
+print("average equals "+ str(average))
+print( "Average equales "); print(Average)
+
+# True or False for Indentifer names:
+
+# Ahmed
+# ahmed
+# 1Ahmed
+# _Ahmed
+# @ahmed
